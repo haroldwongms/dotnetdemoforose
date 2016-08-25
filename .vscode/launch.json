@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\bin\\Debug\\net451\\dotnetdemoforose.exe",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/MusicStore.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "externalConsole": false,
